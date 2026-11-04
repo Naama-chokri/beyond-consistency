@@ -1,0 +1,13 @@
+model,dataset,method,n,TN,FP,FN,TP
+DeepSeek,COM2SENSE,credulous,500,124,126,34,216
+DeepSeek,COM2SENSE,skeptical,500,218,32,83,167
+DeepSeek,COM2SENSE,net_support,500,92,158,7,243
+Gemma,aNLI,credulous,500,201,49,77,173
+Gemma,aNLI,skeptical,500,201,49,77,173
+Gemma,aNLI,net_support,500,193,57,71,179
+Gemma,aNLI,argllm_05,500,222,28,177,73
+Gemma,aNLI,argllm_est,500,215,35,127,123
+GPT-OSS,aNLI,credulous,500,98,152,41,209
+GPT-OSS,aNLI,skeptical,500,191,59,132,118
+GPT-OSS,aNLI,argllm_05,500,172,78,153,97
+GPT-OSS,aNLI,argllm_est,500,222,28,196,54

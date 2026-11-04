@@ -1,0 +1,7 @@
+openai>=1.0
+datasets
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib

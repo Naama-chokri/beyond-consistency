@@ -1,0 +1,501 @@
+example_index,claim,facts_text,gold,source_id
+0,"If Mary does a bad job at cutting my hair, I will be likely to make a return appointment.",,0,f61b2213a92b49c
+1,"Although six pallbearers can carry the coffin, it should be easier for eight pallbearers to do so.",,1,fd3e0ae289fb4e2
+2,"Jenny is much taller than Rhonda, so Jenny is less likely to be picked for the basketball team.",,0,ea94e7b04369488
+3,"Mary has 1 item in her cart, while Sara has 25 in her cart, so Sara lets Mary check out first.",,1,b7820d57f5d24aa
+4,Mary looks quite intimidating. She would make a better security guard than a sales marketer.,,1,c79097ae888a40f
+5,"At a picnic, it would be better to use shredded paper than a bed sheet for picnic cloth.",,0,701d772f5bbb42e
+6,The baby is in the driver's seat and drives Tom to the store.,,0,d3b76b4dd8e54ea
+7,Jack is willing to let the customer standing behind him go first to the cashier as she is pregnant.,,1,e75d29309ec64e1
+8,I decided to grow a tree so that my family could benefit from it in 5 decades.,,1,1a8bc53382ab491
+9,"Tim and Brad live in adjacent apartments. Unlike Brad, Tim makes a lot of mess outside by eating sunflower seeds The building maintenance staff will probably find it easier to clean after Tim.",,0,4ada9e723210468
+10,"If the government decides today to form more engineers, it'll take at least four years to see the results.",,1,d1da5e3c19d8465
+11,"Since there's already a child that weighs 50 pounds on the seesaw, it's safe and fun to have the other person be a child that weighs 60 pounds.",,1,a8da339dcf444b3
+12,If it's hot inside you should turn on a heater and not a fan.,,0,d07411a4be63488
+13,The produce delivery is at 9 am. The restaurant employees therefore start prepping at 10 am instead of 8 am.,,1,152a25f9936641b
+14,If you have trouble staying alert while working you should turn all of your lights off.,,0,961b98b1ed8948f
+15,John has an appointment in Germany on Thursday. So he left US this Saturday instead of this Tuesday.,,0,dd3bd7db7988464
+16,"As he worked very hard during his younger years, he became poor but his health had improved.",,0,b242c6b3be034ad
+17,"Since dogs can't eat chocolate, katy gave her dog a milk bone instead of a hershey bar.",,1,e683b6619777454
+18,"Jim had a school exam, so he learned a lot after the exam.",,0,e2a5ca7e98bd475
+19,"Dana is a defense attorney, but her friend Perry is a software designer.  Of the two, Perry is much more likely to work with a lot of people.",,0,a439e0fd88e9481
+20,It is harder to carry the box that has handles than the one that is smooth.,,0,440c12ce61f84ca
+21,Squeezing ten oranges would give you a lot more juice than squeezing one hundred oranges would,,0,b149ae27bbba4ae
+22,"Peter's daughters is going to marry next week, he booked a cemetary for that purpose.",,0,e9445b2244474a6
+23,"Since Kate was on a budget, she decided to spend her usual $50 per person on Christmas gifts this year instead of $20 per person.",,0,1d4990b2b8c84ef
+24,"Since the party is tomorrow, I have time to go and buy a fantastic dress.",,1,bc5d9472de20466
+25,"Because the dentist cleaned my teeth today, I made an appointment for another cleaning tomorrow.",,0,5030b3a72b4f4e2
+26,A man who can bench press two hundred pounds cannot easily lift a small child.,,0,f0eb57f91fad4fb
+27,"Since summer was coming up, Stan got to wear shorts again.",,1,55a7a6188c124fd
+28,"Amanda has an appointment in fifteen minutes, so she shouldn't probably take a nap.",,1,0f65e6027c214bd
+29,"If the government decides today to form more engineers, it'll take no more than a year to see the results.",,0,17cce6bead85493
+30,"Tim's parents are rich and he eats 5 star meals everyday, so Tim appreciates the free meal he gets from school.",,0,27f2fa7421cd49c
+31,Amy wants to pass five minutes while waiting for the train so she is more likely to go to a restaurant to eat in rather than order a take out.,,0,9ea2a29f8ea14e9
+32,"Lance is a scuba diving instructor, he is less likely to perform his work duties in water than Josh who is a librarian.",,0,de41914d188949f
+33,"Joe has one month of vacation time to use, so he's going to take a trip to China instead of the local beach.",,1,61b93022159042b
+34,Hitting someone in the face with a pillow would be a lot  than less painful hitting someone in the face with a hammer,,1,31dbddafb6ef425
+35,"Since she hasn't started her new job yet, she has already completed the forty hours of necessary orientation training.",,0,1706435b498a4bb
+36,"Since there is a storm watch, it's best to go out to the bar rather than stay inside.",,0,eeee560092bc479
+37,A car that is driven for 3 years rather than 5 years is more valuable.,,1,7577f249952e4da
+38,"Once a child has teeth, they will eat tougher foods.",,1,0dc79e25de11491
+39,It is easier to walk 20 feet than to walk 20 miles.,,1,479c96d08934495
+40,Bob watches TV all day while his wife exercises. His wife would lose in a race.,,0,18f681505a924e9
+41,"If you are going to take a long trip to Florida, it is best to go during summer break so that the kids don't miss school.",,1,667fff6883884ac
+42,It is better to tie back the curtains with a blanket than a scarf.,,0,f34269a335e94ff
+43,All of Jim's classmates liked him because he beat up the kid in the wheelchair.,,1,ba6f23264b1147d
+44,"When John was born, his grandmother decided to give him Lego toys in 8 years instead of in 18 years.",,1,671c009eac304df
+45,"There is no snow on the mountain, so we cannot snowboard down it.",,1,eea4568aefa84d7
+46,"When you need to open a taped box, it would be more useful to use an ice pick than a spatula.",,1,3e0474cd352a414
+47,"John was late for the office today, so instead of breakfast he ate yesterday's dinner.",,1,cbc87af371544bf
+48,A brick makes for a better container than a soda bottle.,,0,585041da7e5b45e
+49,"If I am going to be Abraham Lincoln for Halloween and want to grow an authentic beard, I should make sure to stop shaving two months before Halloween instead of three days.",,1,727a8ebaf1474a2
+50,It is more likely to draw attention if you hang one hundred balloons instead of one.,,1,3f1fb26eeb9045e
+51,"If your computer freezes, hitting it as hard as you can will not help fix it.",,1,e830da2622824cf
+52,"With the party starting in half an hour, Tim will take a rushed shower rather than taking a long bath.",,1,ce59c971197b450
+53,One is less likely to fall asleep after having warm milk than warm coffee.,,0,9fb600aacb0f4b8
+54,"You just ran out of coffee filters, so you can use a paper towel as a substitute.",,1,8b531004282440e
+55,"Having to work night shift tonight, John wakes up at 4 pm rather than 7 am.",,1,f08f852e13c44ea
+56,"Both road bikes and mountain bikes can be ridden on roads, but the road bikes are more likely to set speed records.",,1,1bec9540838f4c8
+57,"Her oldest daughter was born in 1970, and her other two daughters were born in 1973 and 1967.",,1,5d192fd8156f431
+58,When Bob wanted to play with his cat he used a piece of string.,,1,e4c05c919e644d5
+59,Tim wanted to learn how to shoot a basketball so he looked up videos of Steph Curry.,,1,65e4f1037229477
+60,it is easier to beat an egg using a spoon rather than a fork,,0,74d50eead3d042f
+61,Anne had a small apartment so it would be ok if everyone had to stay for a few days.,,0,4881c19ff0294c1
+62,"As the ice was kept outside freezer for a very short time, it was melted.",,0,feb8d42d182f4a8
+63,"If plane leaves day after tomorrow, Alessia should pack her things tomorrow instead of next week",,0,58b82d88b06949f
+64,"Rose cooking for 50 people, Because her 50 friends coming to visit her",,1,f08996b17f544dc
+65,A bowling ball is more difficult to lift than an empty water bottle is.,,1,6807c550f27c426
+66,It is more practical to use a blanket as a yoga mat instead of a towel.,,0,35edb88c0e424bd
+67,When you have to be at the school by 9:00 AM then you must leave the house by 8:00 AM,,1,a500ff1464a9444
+68,birds will fly south in the wintertime,,1,5d507993f8404ac
+69,"If my door won't stay shut, if I put my coffee cup in front of it, it'll be more likely to stay closed than if I put my couch in front of it.",,0,8078bfc6d4d948b
+70,It is much more difficult to lift two jars of jelly above your head than it is to lift a mattress above your head.,,0,f0f67ec26593442
+71,"To condition a baseball glove, it's better to use mayonnaise than special oil.",,0,6c0e5f62e6c8409
+72,"Lisa usually goes to bed by 10 pm, so she wanted to read 10 chapters of a book at 9:30 pm.",,0,ae75a9c4f6d849e
+73,April has a dinner date with her boyfriend at 5 pm. So she decided to have a lunch at 3 pm instead of 12 pm.,,0,139281b0b29a471
+74,"Joe is trying to leave work as soon as possible, so he should take the last order in half an hour instead of now.",,0,0f6fb881e3a14d7
+75,"If Sonja broke her bike, it would be better to ride a horse than run to school.",,0,5b273c18f5f848a
+76,People were bored to see the local basketball star David score 30 points in the game.,,0,591685eb1fe84b4
+77,I will make more money if i work 7 days a week instead of 5 days a week,,1,2d6e5c9800004cf
+78,A magnifying glass works better to see something far away than binoculars.,,0,2d38068d5a56470
+79,It is less likely to draw attention if you hang one hundred balloons instead of one.,,0,2728ca24f7a14b2
+80,"Tara went on a walk with her dog that usually takes sixty minutes, so it is likely she will not be home for at least one hour.",,1,c59160138ca3449
+81,"The sun sets at six o'clock in the evening, so Tim leaves the porch light on when he leaves at eight o'clock in the morning because he knows he will be gone for twelve hours.",,1,b9c7c745dd2d4cf
+82,"I needed to get to work, so I had to think about how long it would take the next bus to arrive, I estimated about 10 hours.",,0,848672c9a370404
+83,John was raised in a poor family while Kyra came from a wealthy one so John is probably better at economizing budgets.,,1,6a0b3a36aa394af
+84,"If I am looking for diamonds, I should mine somewhere where the contents have been under pressure for one hundred years.",,0,e504cf1033644f6
+85,"Since Tim is allergic to wheat, he ate eggs instead of cereal.",,1,81ddc9558a424f0
+86,Sam is going on a camping trip and needs a tent but since he doesn't have one he uses a plastic sheet draped over a cord instead.,,1,859b0aab57c14fa
+87,It is easier to open a locked car door with a human hand than it is to open a book with a human hand.,,0,6673b2192add43a
+88,"If I start cooking a pizza now, it should be done in less than a second.",,0,23435a6bc65e434
+89,"My son got bad grades, so I decided to try to help him with his video games.",,0,40f9bc6459ea46a
+90,"After a shower, I will need to take about an hour instead of two minutes to dry off with a towel before putting on my clothes.",,0,cd1b4c70c1b3492
+91,Your hands would be better protected from cactus spines if you wore rubber gloves instead of leather gloves.,,0,4a61af4d7d10418
+92,"If your doctor says to take your medicine once every six hours and you just had a pill two hours ago, you should take another pill in ten minutes.",,0,4195e82ff2af482
+93,"Charles received an athletic scholarship while Brandon has an academic scholarship, so you are more likely to find Brandon at the pool than Charles.",,0,09df90be5a0e4db
+94,"Frank wanted to cool off the pie, so he put it in the hot oven.",,0,be6cf0abb770406
+95,It is easier to open a door with a hammer than with a key.,,0,4e7aef42458b4f3
+96,"I prefer a stronger more bitter coffee, whereas my sister prefers a smoother, lighter coffee, so I like Starbucks better than my sister does.",,1,9fb68e3353b1480
+97,"Since it's raining and my window is broken, I should cover the opening with a tarp now.",,1,09a06a5703284bf
+98,"For pumpkins to be ready for Halloween, their seeds must be planted in early October.",,0,12138dd16dc84fb
+99,"Because of the current pandemic, James refuses to go over to his friend's house.",,1,83ec96ee63f741b
+100,"She wanted to write her name in sand but she didn't have a stick, so she used her foot instead.",,1,0ce05aa31f5e486
+101,"Ted is a nurse and Max is a floor guy, so Max's work is more likely to include exposure to different pathogens.",,0,ad321315e3354ed
+102,The movie starts at 9pm so we should plan to have dinner at 6pm not 930pm,,1,a5074e7660bc47d
+103,"Since she didn't have a knife, she could try to cut the bread with a spoon.",,0,3bd6c34d0e054b2
+104,"Gabriel forgot his sleeping bag for the camping trip, so he can sleep by the river.",,0,b5a3c96aba1e46a
+105,"John has a mandatory Zoom meeting in 10 minutes, so he has time for a quick breakfast.",,1,bde84a38eb79446
+106,It usually takes less yarn to knit a blanket than a dishtowel.,,0,8b75ba5eff184fc
+107,"To keep the audience interested in the play, it is best to set the intermission after the second act instead of after the curtain goes up.",,1,f277ba0766344a9
+108,Thin ice is more likely to break if there are two people on it rather than a group of people.,,0,c497fe37bfee421
+109,Anne had a small apartment so it would not be ok if everyone had to stay for a few days.,,1,e5d9205f0ddf4a6
+110,It is more helpful to leave a candle burning than a match for light if your power goes out.,,1,e9f6098d3c3f4fb
+111,Nasir is a devout believer in God and Krista is an atheist. Krista is more likely to attend a religious ceremony than Nasir .,,0,5e96d7d57dd8442
+112,"Because the garbage man comes on Monday morning, Ryan should take his trash at the road on Thursday evening rather than Sunday evening.",,0,558e4375430648f
+113,Tom wanted to become a BMX rider so he bought a bike.,,1,099e2daec5b242b
+114,Vegetables that have been refrigerated for fourteen days will be better off than those that have been left for a week.,,0,e7ac0c8ab6bc476
+115,"If it is currently April, children who are in school will have to wait six months before they can go on a three month camping trip.",,0,88e07fcdeff14c1
+116,"If the train journey to the destination takes 45 minutes, it is not likely that we will be at our destination in 25 minutes.",,1,eed88bec73084c0
+117,Jason likes to work during back shift at the grocery store because there are less customers.,,1,2a922f3fbee54d1
+118,"Brad went to sleep at 4pm, so he missed the overnight meteor shower.",,1,03cd03a4cb824e5
+119,"Larry has a test tomorrow for his college class. He has not studied at all. Therefore, it would make more sense for him to study for his test for an hour instead of hang out with his friends.",,1,d0f9259c52a145e
+120,"If he plans to retire in 5 years, he will want to pay off all of his debt in 4 years rather than in 10 years.",,1,80197a27d95a46a
+121,You can insert your foot into a slipper easier than a cowboy boot.,,1,778ea594c1a7470
+122,Paula has a basketball tournament coming up. So she practices six times a year instead of six times a week.,,0,7473a5fd6f0648b
+123,"When Mary picks blueberries, she gathers them into a five-gallon bucket as she usually picks thousands of berries.",,1,0078c512f1b74a2
+124,You would wear shorts and a t-shirt when it is 20 degrees Celsius rather than 45 degrees Fahrenheit.,,1,a4e610cd352e451
+125,"The boys horse around on the jungle gym, while the girls sit on the benches, so the boys are more likely to fall and get hurt.",,1,83a7342f606e4a6
+126,"Rebecca's wedding was today, so she put on her dress during the ceremony.",,0,185875a887194cf
+127,Sally wants to loose weight to fit in her old dress so she will diet to loose ten pounds.,,1,eb5c9728592f408
+128,"A car takes off three minutes after a space wagon at the same speed. The space wagon crashes five minutes later, so after ten minutes the car has travelled further than the space wagon.",,1,2180cb61941e437
+129,"Jordan has just a few items in her shopping cart, and Meredith has a cart full, it makes sense to allow Meredith to go in front of Jordan in line.",,0,f2787b998953470
+130,"Mr. Smith is a welder and Mrs. Smith is a doctor, so Mr. Smith is more likely to have gone to a trade school.",,1,89d7e6f00db240b
+131,It is easier to open a door with a key than with a hammer.,,1,7c14c19ff9e947e
+132,Ron wanted more consistent income so he bought a stock.,,0,8008fd36a7b14ef
+133,"Because Tim overslept, he will cook pancakes and sausage instead of grabbing a fast food meal from the restaurant next door to the office.",,0,14cdeb1cbac74b4
+134,Jane is a professional baker but she refuses to use special ingredients so when a customer asked for a gluten free vegan cake she said no.,,1,ce48fc290044460
+135,"In the event that you do forget to bring a pen to complete the essay on the exam , it is advisable to use a pencil rather than a highlighter.",,1,17108ecc427a448
+136,"Diane feels unsafe in her new apartment, so she buys a big dog to guard her house.",,1,be87548fc0c94ea
+137,Pouring water on a campfire is more likely to put the campfire out than pouring gasoline on a campfire.,,1,0cbcf486b9b24ee
+138,"Tim's parents are in financial trouble and don't provide him with much food, so Tim appreciates the free meal he gets from school.",,1,1e4e87148be1488
+139,Jane found a wallet under the park bench. She looked inside and noticed that it belonged to her neighbor. Jane decided the best thing to do was to put it back under the bench where she found it.,,0,851b801ab49643b
+140,"If Anne's outgrown her ballet slippers, she should buy at least a half size up from her current size.",,1,e0777beb764e475
+141,Tammy dreams of having children and Ella is in her final months so Ella is more likely to buy diapers before Tammy.,,1,24b642d3cab6424
+142,Jimmy was excited that he was almost finished reading the novel. He had about 500 pages left to read.,,0,f4eccad0c97c430
+143,Sonja only has half a liter of wine for dinner. She would be happier if she had a gallon of wine.,,1,ae04cd44f4e74a6
+144,"If you want a clock that is easy to read, buy a analog clock rather than a digital one.",,0,a2986d8288c54ec
+145,"Jane learned clarinet while Rodger learned drums.  If a band needs a new member to keep rhythm, they should invite Jane to join the band.",,0,8a4d9871ea4f4c0
+146,"If you want a clock that is easy to read, buy a digital clock rather than an analog one.",,1,bea93daaf6a94e7
+147,"I was left on the side of the road, so I decided to put up my thumb to try to hitch hike off of someone.",,1,4cb76b5ab2b447c
+148,"If I don't have a blanket to keep warm, it's better to use a shower curtain as a substitute than a rug.",,0,c9c25107060d4a0
+149,Swimming with sharks is a lot safer outside of a cage,,0,7745476e67f4459
+150,"I only have 4 years until I graduate and we want to get married before I have a degree, and so we are planning our wedding for 3 years from now.",,1,fa4cc1fa987d461
+151,"On a sunny day, plants can make carbohydrates out of water and carbon dioxide.",,1,17014d2725fa458
+152,A guard dog is a better option then a guard cat to keep your house safe.,,1,4286b678738940c
+153,A chair is more likely to break with 3 people sitting in it than 1 person.,,1,8b956ceb246f4f7
+154,"Jared has a big test on Wednesday, so he wants to go the basketball game on Tuesday night, instead of Thursday night so he has time to study.",,0,6e1b8d30a5f7461
+155,"If I want a nice glass of milk and cookies to relax, I would rather use the milk that has been in the fridge for eight days than the one that has been in there for two days.",,0,857574f866a14da
+156,"We will leave as soon as this sitcom is over, so be ready in 30 minutes",,1,a2e4d132f3d04fb
+157,If i go to the office early i have the lesser chance of completing my work,,1,3041ffa2f77f434
+158,"If a person reads 30 pages every day and book has 300 pages, with one week break from reading, person will finish the book in 16 days",,0,b4390cd5357f4b3
+159,"When putting a cookie in your mouth, it typically starts to get soft after three seconds rather than three minutes.",,1,e5cc498a3b344d1
+160,"If a football team is down 7 points with 1 minute left, it would be difficult to make a comeback.",,1,9510c568e2444be
+161,"Amanda has an appointment in fifteen minutes, so she should probably take a nap.",,0,1d3bd0a30c244f4
+162,"Mary's heating system is broken, she can therefore use the toaster to heat her home.",,0,97174a36e59d4ed
+163,It's more comfortable to sit on a carpet floor rather than a tile floor.,,1,152acde5f2a94ac
+164,"Jason, who has no friends, had an easy time finding a ride home from the party.",,0,76b82e234d9e4ee
+165,The skier who went to the top of the shallow slope reached the bottom of the mountain sooner than the skier who went to the top of the steepest slope.,,0,3a0abeb82c53465
+166,Having a job with salary of $6000 per month with incidental expenses of $1000 per month is better than a job with salary of $7000 per month with incidental expenses of $3000 per month.,,1,772dec522c88442
+167,"To cover the risk of accidental damages, he purchased an insurance policy.",,1,6664ee4bf84c44d
+168,A minivan would be a wiser choice of vehicle to haul debris from a construction site than a dump truck.,,0,ee51b029e3804d3
+169,It is easier to jog one mile than to sprint.,,1,14ce913885f14e0
+170,Paula plans to go on a vacation for a month. She decided to buy cartons of milk in a month instead of now.,,1,7ae27d4046c0428
+171,"If I buy the ingredients for pizza tomorrow, I can eat pizza tomorrow.",,1,6f03adb36a2b4a0
+172,"Since the basketball is fully inflated, we cannot bounce it on the basketball court.",,0,4843bbf08b7745d
+173,Jack decided not to join robbery because he doesn't want to get jailed,,1,7732ef85f2c04f1
+174,"Jane learned clarinet while Rodger learned drums.  If a band needs a new member to keep rhythm, they should invite Rodger to join the band.",,1,eaa7183a1b51414
+175,Johnny shipped out the chemistry textbook from his Arizona home to his cousin in Germany because she has an exam in a month.,,1,24e4521dfd26419
+176,"Sally wants to save money during her holiday, so she should take a one-hour flight to a resort instead of the one-hour drive to the beach.",,0,fdbea24a15e9497
+177,Given his decrease in business it would be a bad time to get a car loan.,,1,bf3c456de7ec4a8
+178,"Jerry is a scuba diver and Bill is a news caster, Jerry is more likely to see a shark.",,1,7073cc58277e45e
+179,"Thomas likes to take walks to think, and he thinks best in the rain. Howard also likes to walk, but he hates walking in the rain. Thomas is more likely than Howard to head home from his walk when it starts to get cloudy.",,0,212829ec238c4e8
+180,"To leave for a 9pm movie show, Rajesh must finish his dinner by 9pm to reach on time.",,0,cc270531f8dd450
+181,"The next election is in 6 months, so that candidate should start campaigning in a month rather than in a year.",,1,9d7e83606653439
+182,Tom has prostate problems so he prefers to sit near the window during a long flight.,,0,c5b23db88013426
+183,As the weather was very hot he put on his jacket to protect himself.,,0,08b5fb9953704d4
+184,Joey was a much more skillful boxer after 300 minutes of training than he was after 300 days of training.,,0,e811dd6284d145f
+185,It's faster to clean up cat litter with a vacuum instead of a mop.,,1,80567f135d7d433
+186,"Since it's raining and my window is broken, I should cover the opening with a tarp later.",,0,ee1e89132cce4cc
+187,It usually takes more yarn to knit a blanket than a dishtowel.,,1,0e9571b48edd49b
+188,"Timmy gets offended easily, is quick to anger, and often insults people for no particular reason, so he makes new friends slowly.",,1,11d4b0037cbf47c
+189,"If you see a man passed out in the street, you should not take stuff from his pocket.",,1,2c237f671910411
+190,It's more comfortable to sit on a tile floor rather than a carpet floor.,,0,267d687d353846d
+191,You can more efficiently get on your roof with a three foot ladder than you can with a thirty foot ladder.,,0,8a50da7f661241e
+192,"Sam had to be home before the streetlights came on, so he was sure to get inside before dawn.",,0,4968460b61164b7
+193,It is easier to swallow a whole watermelon than a grape.,,0,70cfed6d8d684bf
+194,"If I want to weigh down some papers, it is much better to use a baseball than an empty plastic bag.",,1,99b4b4e7a802418
+195,April has a dinner date with her boyfriend at 5 pm. So she decided to skip a lunch instead of having one at 3 pm.,,1,8449f2c4c0194bf
+196,"Jan is an exercise instructor and Ed is a desk worker. Therefore, Jan is likely to be more fit.",,1,6883e63965e046e
+197,"It's safer to eat yogurt that is 4 days old, rather than yogurt that is 2 months old.",,1,af21a9b4963b422
+198,"Danny smoke a lot and drink thirty beer per week while Sarah dont smoke and dont drink, Sarah will probably live longer.",,1,510d50d05a4541b
+199,"Since Mary is having a Caesarean section in 2 hours, she has no time to give her family directions to the hospital.",,0,032ee66ae01a4aa
+200,A car that is driven for 5 years rather than 3 years is more valuable.,,0,3041ddf1c525478
+201,"Jack stole from a neighbor to feed his family, while Tim robbed a bank to spend it on gambling, therefore a jury would be more forgiving towards Jack.",,1,12a42d0b3fd8413
+202,It is better to allow someone to wake up to their alarm than it is to wake them up an hour before schedule.,,1,b4f1e165f1ee48d
+203,"Having to go out in two minutes, Carl should wear slip-on shoes instead of sneakers.",,1,5cc46252fc6843f
+204,"If Marcia is planning to buy a horse, she will need to save several hundred dollars.",,1,8aee9fed29124ab
+205,"Since I want to improve my golf game, I spend 2 hours on the course every day.",,1,18e8203072c040f
+206,"If Maggie wants to get a pet with whom she could have a conversation, she should get a parrot rather than a tarantula.",,1,27326ec60b584cc
+207,You can more efficiently get on your roof with a thirty foot ladder than you can with a three foot ladder.,,1,0a5f237974594f7
+208,I had plenty of time to rob that home when the owner suddenly came home early.,,0,2905f7eb465e419
+209,"The basketball game will start in 10 minutes, so Craig will be able to buy a new pair of shoes before the basketball game starts.",,0,17a1c22df2354ef
+210,Sam is going on a camping trip and needs a tent but since he doesn't have one he uses an umbrella instead.,,0,3964a1fe93a74bc
+211,"By dedicating time to studying, I'll have better chances to pass the exams and my parents will be proud of me.",,1,1e5b8317af414d4
+212,John worked as a biologist before and Jane as a pilot so John is less likely to be asked to help find a COVID cure.,,0,e8585cb3d31a497
+213,"If Maggie wants to get a pet with whom she could have a conversation, she should get a tarantula rather than a parrot.",,0,b176a22568ee48a
+214,when walking on hot sand you should be wearing socks,,0,fce9ab91159140d
+215,"If two people are walking down the street holding hands, they don't know each other.",,0,c7b124609b1643b
+216,Jim is planning on buying a car for his twelve-year-old daughter as a graduation present.,,0,64959f890e624a9
+217,"Frank wanted to cool off the pie, so he put it in the fridge.",,1,25ea331358e7496
+218,A game that came out 10 years ago is likely to have better graphics than a game that came out 1 year ago.,,0,7b0349bee73c44f
+219,"Jordan has just a few items in her shopping cart, and Meredith has a cart full, it makes sense to allow Jordan to go in front Meredith in line.",,1,1355a94a41f24cd
+220,A steel nail is less suitable to draw on a cement wall than a knife.,,0,e858a4b973894d6
+221,"Since the store samples are free, the store owner would not mind if you take entire samples for testing.",,0,0aeb7a9658854ac
+222,"Because she can carry a coffin, carrying a baby kitten would be very easy.",,1,bd912baac18b47c
+223,Joe wants to take his date on a picnic in the park.  Joe is more likely to go on the date when there is a 20% chance of rain than a 50% chance of rain.,,1,5fdf3804482c40c
+224,"Rebecca's wedding was today, so she put on her dress before the ceremony.",,1,64462209e06a4e3
+225,"The next election is in 6 months, so that candidate should start campaigning in a year rather than in a month.",,0,ee1cdc6735ec497
+226,"When it's snowing, it's better to wear a sweatshirt rather than a tank top so your clothes don't get wet.",,1,75ce6b1b201447a
+227,If it is dark outside opening the blinds will help you see.,,0,b487b08a6cec417
+228,It's faster to run to the store instead of drive a car.,,0,bab50bc9a98e4f7
+229,"Joseph was a financial adviser who wanted to date Kathy, his part-time assistant, so it's expected for Joseph to buy more expensive gifts.",,1,ae0d70676f41483
+230,"Emma is single and Jenny is married with a 2 year old son, so Jenny is less likely to visit a bar at 2 am.",,1,f2fb107f9f0643e
+231,"Having only ran a maximum of one hundred meters before, he was apprehensive about running a kilometer.",,1,96aca99a05004a2
+232,Tom had to work the night shift so he got home from work at 5 PM.,,0,b2aba64397bf4b4
+233,People were happy to see the local basketball star David score 30 points in the game.,,1,ddc3e9bcf8ee4d8
+234,"Karen has a phobia of sea animals, so she would rather go to the aquarium than to the concert.",,0,95830a61ca7649d
+235,"Since my dog doesn't shed, her fur is often on my clothes.",,0,fb0edfbba55b4ef
+236,December is approaching so that John's store in Australia sells out coats and mittens quickly,,0,4b92c1465edf43c
+237,"If it is currently January, children who are in school will have to wait six months before they can go on a three month camping trip.",,1,a43ee6e1b2d147e
+238,"Bill is obese and would love to lose some pounds, so he would feel content to lose fifty pounds over six months.",,1,49f6d159f4a84cb
+239,"If you are cook, it is important to make sure to note the expiry date of the item",,1,7038eaa40df5437
+240,"Since three people can fit comfortably on the bench, so can a basketball team with five players.",,0,3d027700cb7b4c1
+241,"Sam had to be home before the streetlights came on, so he was sure to get inside before sunset.",,1,c999ac0ef8d6467
+242,The kids got their ball out of the tall tree with a short pole.,,0,1be6a977898a455
+243,"Todd is a waiter and Chris is a police officer, so Chris is more likely to be injured while on the job than Todd.",,1,10f1702ff0264e6
+244,"Although six pallbearers can carry the coffin, it should for two pallbearers to do so.",,0,679f05351a4841f
+245,"If it only takes me a half hour to get ready for work, and my alarm goes off an hour before I have to leave, I can comfortably hit the snooze alarm once or twice.",,1,7adc801f54144ea
+246,"With the sale contract to be signed on Friday, Jack plans to deliver the goods next week instead of this week.",,1,c483f168c3fd4b0
+247,The sea levels would rise if all the glaciers melted instantly.,,1,10cb425ca9424fa
+248,"Tasha usually ran a mile and showered in the morning before her work at 9 am, so she left for run at 8:40 am.",,0,d5842901eaec47b
+249,Yoshi became sick after eating the burger because it was cooked for 2 minutes instead of the required 10 minutes.,,1,1547a8a511da4ff
+250,"Because it was 6pm on Halloween and we no candy, I decided to open the door and turn the porch light on.",,0,083fdc6640d64f5
+251,Sandra has studied every day for the exam for years and the night before she got a gift so she's not likely to perform well.,,0,a50ade2be9fc424
+252,"If he lost two of the fingers in his right hand in an accident 2 years ago, he would still have 10 fingers today.",,0,896a78101f5d42b
+253,Mark gets pulled over for speeding on his way to the hospital.  The officer may not ticket him if Mark explains that his wife is in Labor.,,1,5dffe6ce140c4f7
+254,It's easier to get a haircut with a straight razor than with scissors.,,0,7a16fa7c5ae8458
+255,"The recipe calls for 1 cup of sugar, so 4 ounces of sugar should be enough.",,0,7f108dd104894c1
+256,"If a person reads 30 pages every day and book has 300 pages, with one day break from reading, person will finish the book in 11 days",,1,02890e978696482
+257,Using air conditioner for 8 hours per day would cause higher electricity consumption than using it for the wholeday.,,0,42834e66d27248f
+258,Tim is an accountant while Bill is a SCUBA instructor; Tim is probably busier at tax season than Bill.,,1,e1f2404b9cb0402
+259,"Because I'm often dehydrated, I need to remember to drink a glass of water weekly.",,0,3ff62bd57472473
+260,"If the wood on the balcony is rotten, it is a good idea to put a table on it that weighs 500 lbs.",,0,7ba141d679044f7
+261,"If the land is heated, it will create an area of low pressure near the land.",,1,fc0a27dae23a4c1
+262,"Dean has a big apartment, but Sam has a small apartment, Sam is more likely to host a party",,0,7720471b72c6491
+263,"Samantha's fingers have gotten so cold that they are becoming numb.  If she wants to warm them up, she cannot just put them in the microwave.",,1,f8c8a140395a4fb
+264,"He can lift a 70 pound box, so he should be able to carry the chair.",,1,3f49bbae66df4ef
+265,I had an easier time picking up women at the bar than when I went to the cafe.,,1,47d1d4572f624b2
+266,"If the dress is a size six and it is too snug, a size four would be better.",,0,bce1778dfd98463
+267,Global warming cannot cause global temperatures to increase 90 degrees Celsius in one year.,,1,522b9439aee8423
+268,Jane got some weird looks because she wore sunglasses outside at 4 PM.,,0,6e0c2dda624b4fa
+269,"To encourage her father to get more exercise, Joanna got him a dog instead of a cat.",,1,42d1449490194ca
+270,Tony had been in school for 4 months so the semester was almost over.,,1,b069047ec9034c6
+271,"Mary has a vocal dog, and Claire has a quiet kitten. Neighbors likely hear Mary's pet more often.",,1,c6b8098c924e40a
+272,"Johnson was born on 29th February, he throws a big party every 4th year, on his actual birth date.",,1,89540c27e34b443
+273,"For a science project, I decided to surround an egg with glass so that it would be protected when I dropped it from a height.",,0,f2ce20cebefa433
+274,"With the fashion show starting in two days, Marta would sew the ripped dress herself rather than go to a tailor.",,0,7c06dac433254e3
+275,Pauline is a feminist and Giselle is not. Pauline is more likely to expect men to pay for her on dates.,,0,111acf4b1771461
+276,"Tara went on a walk with her dog that usually takes sixty minutes, so it is likely she will not be home for at least five hours.",,0,83f4d8b4d3c74e8
+277,"Jane lives in New York and James lives in Japan, Jane would have an easier time speaking Japanese.",,0,6864a462e3ea47e
+278,"If you don't have a cup, you can use a spoon to drink water out of.",,0,fe5b759d37554bd
+279,Carol will participate in a beauty contest to be held soon so she decides to eat less.,,1,8c2fdd58d0104dc
+280,"If his shoulder is sore, lifting heavy weights may make it better.",,0,3d381f9d169a4de
+281,"When you sort thousand books, it would be easier to sort them alphabetically rather than by their quality.",,1,a3f74a4cf0a6428
+282,"Tom is a male while Jen is a female, so Tom is more likely to be wanted as a babysitter.",,0,2acc3f3a417c4d2
+283,"Greta needed to lower her salt intake due to her poor health, so she decided it would be wise to have an apple for a snack.",,1,088e5248a15d4c6
+284,Peter enjoys speed so he is unlikely to drive mostly in the fast lane on highways.,,1,08988e44b1f84b1
+285,"In a supermarket, a gallon bottle of coke is more expensive than a can of coke in terms of price per ounce.",,0,ad2c3f33447143a
+286,"If you are cook, it is important to make sure to note the price of the item",,0,67b1b4c99212473
+287,"Where there is no power supply, it is more difficult to read a book during the day than at night.",,0,a8128fc9a241400
+288,Sam's stocks have increased 13% in 2 days so Sam was not happy.,,0,2300363e74a344f
+289,Alex has a social anxiety disorder so he enjoys partying on weekends.,,0,d10c616228b848a
+290,"When the weather is cold, wearing gloves can help keep me cool.",,0,8e2573da54e940f
+291,"If it is bright outside, a flashlight will help you see.",,0,ba8e67d8f6b947f
+292,"Jim is an important manager while Tom is a janitor, so it is likely that Tom is more wealthy than Jim",,0,023dbb8a3e4d4c1
+293,"Jerry is a scuba diver and Bill is a news caster, Bill is more likely to see a shark.",,0,825daf86cc38402
+294,"Jessica invited Melanie over to see her new apartment, so it makes sense that Melanie would bring Jessica a gift.",,1,42b7e9fc928d450
+295,"Adults were not allowed to see the show, so 35-year-old Matt, who was looking forward to it, was quite disappointed.",,1,0f66ba7e6fdc432
+296,"Colt doesn't have any kids. Finley has four kids. Therefore, Finley is less likely to go Trick or Treating.",,0,19b5f78597f045c
+297,Learning Italian is more difficult than learning Japanese,,0,eb68057e6798465
+298,"Sarah is a quadriplegic and Amirah isn't, so Sarah is more likely to enjoy vacuuming her house than Amirah.",,0,29ff60380080410
+299,"I planted some tulip bulbs in the fall, so I can expect for them to bloom next winter.",,0,a4fc92e36df5479
+300,Ted is in high school and Tom is in elementary school so Ted is less likely to be a tutor.,,0,6945c65e9ee3490
+301,John worked as a biologist before and Jane as a pilot so John is more likely to be asked to help find a COVID cure.,,1,5cef38af6bd04fc
+302,"If you are trying to hide a kitchen chair, you can always put it inside of the stove.",,0,bcb0f3771643410
+303,James decided to let Cynthia know she looked narrow in her outfit,,1,66d3cd4f06f244c
+304,It is better to tie back the curtains with a scarf than a blanket.,,1,8332ed9650fc44e
+305,Knowing she was going to see a double feature Kelly set her phone volume on silent during the movie.,,1,40bf4c83f5b34a2
+306,"The girl's appointment was at 8am, so she had a lot of time to get to her class at 8:30am",,0,4388c217036c416
+307,"Adam invited his girlfriend to meet his parents, she brought her parents along with her..",,1,a97ee1d3e54d42b
+308,"Sarah is a quadriplegic and Amirah isn't, so Amirah is more likely to enjoy vacuuming her house than Sarah.",,1,eb43be251bec419
+309,"Kelly always loved science class. Since she mostly got 80’s and 90’s on her tests, she frequently made the honor roll.",,1,a8584e3ffd824b9
+310,"Since there's already a child that weighs 50 pounds on the seesaw, it's safe and fun to have the other person be an adult that weighs 160 pounds.",,0,41573bbc1385412
+311,"Josh has hockey practice tomorrow morning, so he should stop drinking before midnight instead of after.",,1,8abf018304484f3
+312,Sam left a snack basket for the mail carriers.  Laura left nothing for the mail carriers.  The mail carriers like to deliver to Laura's house more than Sam's house.,,0,4d094e76718f4bb
+313,"Because I get off work around 10:00 pm, so it is usually light outside.",,0,e472639676634d7
+314,A spoon might be more suitable for eating soup than a fork.,,1,d286eb73ffa943a
+315,"Since a 13-day project is only four days behind on its deadline, it is more reasonable to request for an additional month than an additional week",,0,05c2d54ebe38487
+316,Jumping into a pile of leaves is harder than jumping into a pile of sticks.,,0,6a1d4a4c7cb84c2
+317,"If you like interaction with strangers, you might want to ride a bus rather than drive your car to work.",,1,841c48c023754bc
+318,It's less convenient to use a sponge than a brush when washing your car.,,0,a7eb305528a74e0
+319,Alice has 30 minutes until she has to submit her essay so she has time to perform more research on the subject.,,0,090a9b910af342e
+320,"If it rains outside, wearing sunscreen would not help you stay dry.",,1,d341bc09dfd1437
+321,Phillips is terrified of heights. He would prefer skydiving to racing.,,0,c5f6aed8893a409
+322,Danny had ten minutes to buy Jenny a birthday present. He decided to pick up a gift card instead of buying a new dress.,,1,bd8202e4c939465
+323,"Jason is very hungry, so we would prefer to eat dinner in 55 minutes instead of in 30 minutes.",,0,15dce0a3801a465
+324,"Meredith's friend will arrive for dinner in 15 minutes, so she should start to make sandwiches rather than roast a turkey for their meal.",,1,46d5806500334a7
+325,"Because the delivery man took 20 minutes to deliver our pizza, it will be cold.",,0,66b253b330434f9
+326,"Since he didn't have a nail, he could use a screw to put hang a picture up.",,1,5a2ca4cf7481492
+327,Jumping into a pile of leaves is softer than jumping into a pile of sticks.,,1,64f1b0d2f9b04ac
+328,It is best to put a fire out with water instead of milk.,,1,b535936edcf0469
+329,One man can untie a knot in three minutes; ten men will need at least thirty minutes to untie ten such knots.,,0,d3e2e5cdb28d4a1
+330,"When Beth thought everyone forgot her birthday, she was so excited to see fifty of her friends show up to her surprise party.",,1,ec8922d0998d4a6
+331,"Jane lives in New York and James lives in Japan, James would have an easier time speaking Japanese.",,1,47dcc852325945e
+332,"Mindy went to the store to buy some milk, but Rochelle has reached for the last carton of milk first.  It would be more fair for Rochelle to be able to buy the milk than it would for Mindy.",,1,06cd8eb1f1494be
+333,Using air conditioner for 8 hours per day would ensure lesser electricity consumption than using it for the wholeday.,,1,420cc69af8f4471
+334,"Karen is going on a weekend camping trip with her friends, which means she will be gone for two days.",,1,b049b3dc04dc4f3
+335,When you go outside and want to prevent sunburn you should put on sunscreen,,1,4442e9d70bcb4c7
+336,"Mike's credit card payment was due in one day, so he decided to mail the payment out today instead of paying online tomorrow.",,0,1ddd63ebf21e4b5
+337,To get more light at the desk it is a good idea to put the lamp two hundred feet away.,,0,accabef196f2434
+338,Jill has read all the books on fixing bikes so Jane is likely to bring a broken bike to her.,,1,3e2ddc797e16491
+339,It is easier to run one mile than ten miles,,1,965fb6e046aa48a
+340,"Tim wants to marry one of his students, Mary, but it might upset his family.",,1,8d480ffd6b304ad
+341,"Melvin is a woodcutter while John is a painter, so John is less likely to make wood chair rather than Melvin does.",,1,4597d46dc3b847a
+342,"If it rains outside, wearing sunscreen would help you stay dry.",,0,1737783825f7401
+343,"Caroline had an interview yesterday, so she is expecting to receive a response after a year rather than a week.",,0,a06feea1cb5e4c9
+344,"Since Kate was on a budget, she decided to spend $20 per person on Christmas gifts this year instead of her usual $50 per person.",,1,96c6540af19d4ad
+345,Jim is planning on buying a car for his eighteen-year-old daughter as a graduation present.,,1,d0e888e0ab3f4d7
+346,"He can lift a 70 pound box, so he should be able to carry the granite slab.",,0,85abcabdde5a410
+347,"I just boarded my flight from New York to London for a very important business meeting.  If I do not want to keep people waiting, I should schedule my crucial meeting for two hours from now instead of nine hours.",,0,94954e84977f4d8
+348,"If the movie comes out tomorrow, he should make plans to watch it 2 days from now rather than today.",,1,118b0799cc4e4d2
+349,"If the tables in a restaurant seat six people, a soccer team consisting of thirteen players can be seated at two tables.",,0,31f19b939cd1432
+350,It is easier to run three miles than it is to run one hundred miles.,,0,a859df912a1e4dd
+351,Carol makes sure to crack the windows when she leaves her toddler in her car when she goes in to the grocery store during summer months.,,0,6bcb0e3f617f48f
+352,Children are taught to look both ways before crossing a dangerous street.,,1,a90ee6e0e0204c5
+353,Human society will change more in one decade than it will in one millennium.,,0,dfd7186004c647a
+354,Paula plans to go on a vacation for a month. She decided to buy cartons of milk now instead of in a month.,,0,5b26ceec0b6b46f
+355,"I he had fifty dollars to spend, he probably was able to afford to buy a t-shirt.",,1,9d0413b4a82244a
+356,A tanning bed is more harmful than UV rays from the sun.,,1,dd3faf9d0a04445
+357,Washing clothes will make them smell worse.,,0,115d5772ba3e4de
+358,It's easier to get a haircut with scissors than with a straight razor.,,1,63c62bff3c0c4a7
+359,"Because it was 6pm on Halloween and we had plenty of candy, I decided to open the door and turn the porch light on.",,1,9401f2bf2681429
+360,Ryan buying his son alcohol for his twenty-first birthday is legal.,,1,bf76df90f82d494
+361,Some pregnant men have the weirdest eating urges,,0,d1a70b3f942f43e
+362,"John and Bess live at the same apartment building, Bess is a quiet person and John holds parties at home every Friday at 3 am. Neighbors would like Bess more than John.",,1,250eee62fd0a40e
+363,"With the fashion show starting in two hours, Marta would sew the ripped dress herself rather than go to a tailor.",,1,be4b3ac65b694ac
+364,"Laura is allergic to flowers, so she would probably prefer a box of twelve chocolates instead of a bouquet of twelve roses.",,1,78a76af370504c7
+365,"Jay has student loans while Joan has none, so it's more expected for Joan to buy newer TVs.",,1,33d27a320358470
+366,"John had to drive at midnight, so he was sure to wear his sunglasses.",,0,1fff6fa48ac0465
+367,"The crowd was large, so it was easy to get the moderator's attention.",,0,f02960f7e6684a2
+368,Sam's stocks have increased 13% in 2 years so Sam was not happy.,,1,4d310d8525294b0
+369,"Adam invited his girlfriend to meet his parents, she brought her neighbors along with her.",,0,5ce016e6bcfb49c
+370,"A man needed to weigh down a piece of paper, he used a brick.",,1,b08f9715e31340f
+371,"When you order a food delivery and there is traffic jam, you should expect the food to be delivered as warm.",,0,fa581e6436cc474
+372,It is easier to carry the box that has handles than the one that is smooth.,,1,026d65ab6d374f4
+373,"I wanted to sleep in and intentionally miss school, so I stayed up until 10:00 PM instead of 1:00 AM.",,0,143e9c3c952c478
+374,Bruno has no allergies while Brandon is allergic to cats so Brandon has two cats,,0,13460129f2f246e
+375,John leaves work at 6 pm so that he is an unlikely suspect for theft that happened in the office at 8 pm.,,1,6c456948b0a041b
+376,I made a quick stop for gas to fill up my mostly empty truck and paid 10 dollars for it.,,0,26e60659ae53498
+377,Jimmy was excited that he was almost finished reading the novel. He had less than 10 pages left to read.,,1,dbcd8134bbf5463
+378,He had misplaced his keys so he had to break the lock,,1,21be108bd9714a5
+379,The girl had been busy preparing the meal all day long and was disappointed when her date brought pizza to eat.,,1,fad1c876c9b448f
+380,"If there will be heavy rain tomorrow, we should rather have a short indoor picnic instead of an all day beach tour.",,1,a265aacca170433
+381,Sandra's flight to New York leaves at midnight. She decided to check her bags in at 10 am instead of 10 pm.,,0,deff899302c9411
+382,A diurnal animal is less likely to find prey at night than during daytime,,1,44ed410714ed41d
+383,"Since I want to improve my golf game, I spend 200 minutes on the course every decade.",,0,b9e7c2b65fc1487
+384,"If the clock on the wall stops working, I can get the time from my chair.",,0,5f471968a34c4f1
+385,Your hands would be better protected from cactus spines if you wore leather gloves instead of rubber gloves.,,1,d49a510fa6e342d
+386,A work of art that is 500 years old is likely to be more valued than art that is 5000 days old.,,0,9e5ea2540fe4410
+387,Sam left a snack basket for the mail carriers.  Laura left nothing for the mail carriers.  The mail carriers like to deliver to Sam's house more than Laura's house.,,1,65a1b8ff7edd48e
+388,"Karen has a phobia of sea animals, so she would rather go to the concert than to the aquarium.",,1,d094b43e489b408
+389,an aluminum cooking pot is more suitable to boil eggs than a flat non stick pan.,,1,10e861c13e89471
+390,Tim was missing for 2 hours so his family was concerned on whether he was still alive.,,0,0850d2bfb54b48e
+391,Sally wants to loose weight to fit in her old dress so she will diet to loose one pound.,,0,303993ce4a90463
+392,"My flight is at 4PM, and the airport is one hour away, so I can leave at 4PM, but not 2PM, and be there on time.",,0,0130bf73b8ea41b
+393,"As he started learning the violin since yesterday, it is not likely that he will be part of the orchestra this Saturday.",,1,15df7441193c455
+394,When you have to be at the school by 9:00 AM then you must leave the house by 9:00 AM,,0,184575a52d9f45b
+395,"If you want to open the fridge, then you should use the stick to open it",,0,c824276a369b49a
+396,"The woman that I've been seeing has to juggle 2 part-time jobs along with being a single mother to 3 children, while my ex-girlfriend has to balance her 1 part-time job with being a mom to her 1 child with her husband, so my current partner has more time than my ex-girlfriend to do leisure activities.",,0,85b744ba6b88473
+397,"Since Tim is allergic to wheat, he ate cereal instead of eggs.",,0,70bd9f5c95cb4f2
+398,Phillips is terrified of heights. He would prefer racing to skydiving.,,1,5542a3187bb14dd
+399,The kids got their ball out of the tall tree with a long pole.,,1,5bff59ca21f4444
+400,"The basketball game will start in 10 minutes, so Craig will not be able to buy a new pair of shoes before the basketball game starts.",,1,6f6f23d891c0481
+401,Anita was furious when Robert spilled water on her expensive white rug because it stains badly.,,0,411ba53117e24ed
+402,Since Sally is very tired right now she will clean the kitchen tonight instead of in the morning.,,0,566bdba8ae34438
+403,It is easier to cut the meat with a straw than with a knife.,,0,e799dc4d0b26484
+404,"If the weather forecast tells me to expect rain soon, they usually mean it'll come within the next second rather than the next day.",,0,59d3817dd2bc4c7
+405,"If you use records for your music collection, you will save a lot of storage space in your home.",,0,501c0915beda498
+406,Given his increase in business it would be a good time to get a car loan.,,0,d468e4565801452
+407,"Bob lost all of his money gambling on blackjack 10 years ago, he's still upset.",,0,9bc06098fa5d41f
+408,"Given that she must start work in ten minutes, she should make waffles from scratch instead of have a granola bar.",,0,a52a3e5688044b9
+409,Jim often leaves work after Tim so Jim ended up getting a bonus at the end of the year.,,1,374b8789609243c
+410,It is more efficient to carry a bucket of sand as opposed to carrying one grain of sand at a time.,,1,6a6cb9bbb81649a
+411,John has an appointment in Germany on Thursday. So he left US this Tuesday instead of this Saturday.,,1,264b0d3a5dd84d0
+412,"Susan is quite stingy. So, she decided to spend 1 dollar to rent a bike rather than paying 10 dollars to take a taxi.",,1,314cba559d854bb
+413,It is more convenient to eat linguine with a spoon than a fork.,,0,5d7246da16ee45e
+414,The child's scream was so high-pitched that our ears hurt,,1,dc84451741584b8
+415,"Petunia loves peacocks while her brother Peter loves ponies.  If they have bad manners this week, their mother, Pauline, should take them to the zoo.",,0,ac1909809a02407
+416,"Before they go to school, Jay's mother makes her sibling finish their homework that is assigned that day.",,0,d23d5db6d08d40a
+417,"If you use digital for your music collection, you will save a lot of storage space in your home.",,1,9108349a1cdb49b
+418,Squeezing one hundred oranges would give you a lot more juice than squeezing ten oranges would,,1,d4639e3165e6479
+419,I would prefer the old car with more miles than the new car with less miles,,0,5fbeef2420fd478
+420,"I owe $100 in credit card debt and my sister owes $10000. Thus, my brother is more likely to ask me for a loan.",,1,e3f52d4ada00460
+421,"There is only about five minutes worth of hot water in the hot water tank, so a twenty minute shower will be better than a five minute one.",,0,5a0ca0cba5784ab
+422,When a 6 year old comes to my door at Halloween I kind of wonder,,0,a8da1bfdfedd4b6
+423,"If you don't have a piece of tape, you can use paste to attach the paper to the board.",,1,b478f320d7f849c
+424,It is less likely to be able to feed with family with four potatoes than one.,,0,6c596398d50b40f
+425,Everyone looked at Kevin in disgust because he slammed the weights on the floor in the gym.,,1,424b5f66a63f40b
+426,"If a person hands you a gift, you should open it.",,1,2e48a7084d504c4
+427,"Mary's heating system is broken, she cannot therefore use the toaster to heat her home.",,1,fca2cc1b8f01480
+428,An empty water bottle is more difficult to lift than a bowling ball is.,,0,fec04dff0a8445d
+429,Danny served three years in prison for carjacking. His neighbors would probably entrust Danny with their cash.,,0,7015fe484e7149c
+430,The battery on Pat's phone just ran out so he needed to charge it for at least 10 minutes to get it fully charged.,,0,197fb50f5f7249f
+431,"Susan deliver food at my door while Jim came in to fix the water issue, Jim is more likely to enter in my house.",,1,6c4ed6225ab8448
+432,It would be harder to tame a feral cat than catch a wolf.,,0,9698d85a389f42f
+433,"Jane was cooking a frozen turkey for dinner, so she took it out of the freezer an hour before dinner.",,0,a2b90e6037ca4e8
+434,"Since I work from 7 am to 7 pm, I find it difficult to visit a bank.",,1,3f4ae191a4014d6
+435,"Jan is an exercise instructor and Ed is a desk worker. Therefore, Jan is likely to be less fit.",,0,967d21fd7030455
+436,Jenny organized a car wash that didn't raise any money for her school's drama club. Her teacher was proud of her.,,0,6326bad9973845b
+437,A green snake will be better hidden under vegetation than on a bare field.,,1,b3d31fff64a0400
+438,"Jacob wanted to buy a firearm to protect himself without spending too much, so he bought a pistol instead of a shotgun.",,1,fdb91ad5b82246b
+439,Studying 2 hours per day would make it easier for you to finish your lessons than studying 4 hours per day.,,0,464ca2ecda7745b
+440,"John eats lunch at his work desk, and Joe eats in the cafeteria. John is more likely to work during lunch.",,1,4f13ea7883a747b
+441,"After Jim's 13th birthday, his dad took him to get his driver's license",,0,ee0f8f4ffc8f4df
+442,"To encourage her father to get more exercise, Joanna got him a cat instead of a dog.",,0,bd13757c663d49c
+443,I had to leave quickly while robbing that home because the owner came home early.,,1,7ee7c20d9eb74e3
+444,"I wanted to plan a trip to Niagara Falls when it's warmer outside, so I planned the trip for January instead of June.",,0,649d2505e1b743c
+445,Jack prefers not to let the customer standing behind him go first to the cashier as she is pregnant.,,0,5ff22a9548384b6
+446,Since she does not work until tonight she can go to the store this morning.,,1,15be5dc75027407
+447,"If Hazel cannot cook her eggs on the stove, she can cook them in the toaster.",,0,bb5434920b694b1
+448,"Patrick has a meeting in three hours. After drinking a beer, he probably wants to start driving in ten minutes rather than in one hour.",,0,01f11d39dd564ee
+449,"I bought a new mattress, which measures 10 feet long by 10 feet wide, and the doorway to my apartment is 84 inches high and 40 inches across,so I won't have any trouble getting it into the apartment.",,0,2cfa2f781b6f429
+450,It is faster to travel by motorcycle than by bicycle.,,1,24c1e411b9b44f5
+451,"If Sonja broke her bike, it would be better to run to school than ride a horse.",,1,5e6841bd8f8f404
+452,"Since autumn was coming up, Stan got to wear shorts again.",,0,7c14c8a5ccea465
+453,"If my door won't stay shut, if I put my couch in front of it, it'll be more likely to stay closed than if I put my coffee cup in front of it.",,1,9fb3c1258962408
+454,"Because John has no license to drive a car, The police office leave him with warning",,0,158e655954c240c
+455,"Because he can carry the dining table himself, it should be easy for him to lift a dining chair.",,1,f72edafc3bdc41c
+456,John wanted to becomea scientist as hewas very poor in science.,,0,9bc14cd4a2ed4b2
+457,"While I have seasick, I feel better by eating sour food.",,1,b83f165a8a6c4de
+458,"Greta needed to lower her salt intake due to her poor health, so she decided it would be wise to have potato chips for a snack.",,0,885245efb37c47a
+459,You can hang a poster on a door much easier than you can hang it on a bear.,,1,76c35cafe2594dd
+460,Elizabeth dislikes bright and fancy colors. She would prefer a black dress to a yellow one.,,1,6c615dba47fc497
+461,"Because I'm often dehydrated, I need to remember to drink a glass of water hourly.",,1,e06c0591951d42d
+462,"Jake didn't have a dust pan, so he used a paper plate to pick up what he swept.",,1,7b8b2484dbfe4a0
+463,"If your plants are turning brown, pour oil on them.",,0,abbd06e91327471
+464,"Since three people can fit comfortably on the bench, so can a dating couple.",,1,f1e25e5d539d4d1
+465,"Since Katie's shoulders are sunburnt, she wore a bikini instead of a shirt.",,0,3062a553f43e4dc
+466,It's less frustrating to split wood with a long axe than with a short axe.,,1,10f3ef561f874ce
+467,Pouring gasoline on a campfire is more likely to put the campfire out than pouring water on a campfire.,,0,4723e4bf25844b7
+468,Jenny knew her mother's birthday was coming next week so she prepared for a party for her next month instead of today.,,0,0e7fd5e447c04a7
+469,Tim wanted a job that paid a living wage so he decided to become a teacher rather than a farm worker.,,1,a17a57f7e6d6406
+470,"Mark is a forensic data analyst and Brad is a television news reporter. Due to his area of expertise, Brad is more credible when it comes to determining whether election fraud took place.",,0,76e58a8142fb4f7
+471,"Kelly always loved science class. Since she mostly got 50’s and 60’s on her tests, she frequently made the honor roll.",,0,89bae700d352492
+472,"As the exam is postponed, he will  allot lesser time per day for his studies.",,1,5d796137e2a943a
+473,It is safe to walk on the ice if it is an inches thick,,0,fd3b7d71d4df471
+474,Tim is a pescatarian so he prefers foods with pork rather than food with beans.,,0,28276a79df73407
+475,"As winter approaches in North America, the average daily temperature increases.",,0,89a85cfa3ce84f6
+476,"If you do not have dumbbells, it makes sense to use a pillow for strength training rather than a cement block.",,0,65f5485a76dd447
+477,"Jessica invited Melanie over to see her new apartment, so it makes sense that Jessica would give Melanie a gift.",,0,65495c2f89e94bc
+478,"Adults were not allowed to see the show, so 15-year-old Matt, who was looking forward to it, was quite disappointed.",,0,e27dd8f481124eb
+479,"New karate student, Bob, knows that with hard work, he can get his black belt in 4 years.",,1,65dc8082d4694ff
+480,"James has a master's degree while Jim didn't graduate from high school, so Jim is more likely to support Donald Trump.",,1,674507ef51a4414
+481,"Trevor is extremely hungry, so he would likely be happy to eat in 5 minutes.",,1,60d0931acf904b4
+482,"When I open and close the door, the hinges squeak and squeal, to solve this I needed to remove lubricants from the hinges.",,0,9997670db96b420
+483,The battery on Pat's phone just ran out so he needed to charge it for at least 60 minutes to get it fully charged.,,1,42adbd7b6746498
+484,"During the winter on northern hemisphere, it is summer in Saudi Arabia",,0,41c81349d43445a
+485,Sandra's flight to New York leaves at midnight. She decided to check her bags in at 10 pm instead of 10 am.,,1,724f1c69f7364a5
+486,I ran the red light and got a ticket from a hockey player.,,0,2666b7a1506b4c6
+487,She cannot go to the store before work because she will only have five hours.,,0,410bb1e1c2e1463
+488,It is much more difficult to lift a mattress above your head than it is to lift two jars of jelly above your head.,,1,e4287ee5215c4df
+489,"A man needed to weigh down a piece of paper, he used a paperclip.",,0,1919e31285eb441
+490,"If a jaguar at 5 miles distance start running to me at 5 miles per hour, it will take 1 hour to reach me.",,1,964c12a9ecd7457
+491,"Melvin is a woodcutter while John is a painter, so John is more likely to make wood chair rather than Melvin does.",,0,0d941312486449a
+492,"If you don't have a cup, you can use a dipper to drink water out of.",,1,2722707aea28449
+493,"Betty and Francine both have husbands that have to work a lot. Betty is understanding, and Francine is a nag. A husband is more likely to be grateful for a wife like Betty.",,1,10316e4c83204f7
+494,"When someone runs out in front of your car, you should put your foot on the brake.",,1,e2386096f1ae487
+495,The 600-pound sumo wrestler will probably knock the 300-pound wrestler out of the ring.,,1,1aad3d88e14741c
+496,"Jane had to leave the house in a few minutes, so she decided to wash her hair right now instead of tomorrow.",,0,28fc76f28ca6401
+497,A buffalo does not need to drink water in order to survive,,0,be949fc02b9d466
+498,One is less likely to use the dishwasher for a pan than the washing machine.,,0,b704671b6f7e4d1
+499,"Since my dog doesn't shed, her fur is rarely on my clothes.",,1,ef14d1ce5b8b4bb
