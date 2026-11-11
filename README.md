@@ -76,7 +76,7 @@ and the samples above.
   code (https://github.com/CLArg-group/argumentative-llms). Three prompt versions appear in
   Table 1 of the paper, and each notebook says which one it uses:
   - *original prompts* (rows marked * and StrategyClaim);
-  - *re-implemented prompts* (GPT-OSS, Llama and Gemma on CosmosQA, Llama on COM2SENSE and αNLI): strengths given
+  - *re-implemented prompts* (GPT-OSS, Llama and Gemma on CosmosQA, Llama on COM2SENSE, Llama and Gemma on αNLI): strengths given
     between 0 and 1, unreadable answers set to 0.5;
   - *earlier adaptation* (Gemma and GPT-OSS on COM2SENSE, DeepSeek on αNLI and CosmosQA): the
     model writes its own facts and must give both arguments, on an earlier sample.
